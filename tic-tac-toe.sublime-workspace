@@ -4,6 +4,62 @@
 		"selected_items":
 		[
 			[
+				"clas",
+				"className"
+			],
+			[
+				"H",
+				"highLight\twarning"
+			],
+			[
+				"sq",
+				"square"
+			],
+			[
+				"on",
+				"onClick"
+			],
+			[
+				"square",
+				"squaresToHighLight\twarning"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"class",
+				"className\twarning"
+			],
+			[
+				"hi",
+				"highLight\twarning"
+			],
+			[
+				"fill",
+				"filledSquare\twarning"
+			],
+			[
+				"state",
+				"state\tproperty"
+			],
+			[
+				"step",
+				"stepNumber"
+			],
+			[
+				"squ",
+				"squares\tlet"
+			],
+			[
+				"row",
+				"rows\tlet"
+			],
+			[
+				"css",
+				"cssClass"
+			],
+			[
 				"size",
 				"sizeModifier"
 			],
@@ -212,10 +268,6 @@
 				"import\timports a module …"
 			],
 			[
-				"cla",
-				"class\tkeyword"
-			],
-			[
 				"he",
 				"hero\tscript"
 			],
@@ -416,10 +468,6 @@
 				"loadObjectList"
 			],
 			[
-				"on",
-				"onSubmitComplete"
-			],
-			[
 				"online",
 				"onlineInfoCategory"
 			],
@@ -466,78 +514,11 @@
 			[
 				"res",
 				"resp_submit"
-			],
-			[
-				"sub",
-				"submit_done"
-			],
-			[
-				"delete",
-				"deleteObject"
-			],
-			[
-				"delet",
-				"deleteEventCategory"
-			],
-			[
-				"dele",
-				"deleteEventCategory"
-			],
-			[
-				"parent",
-				"parentColumnName"
-			],
-			[
-				"date",
-				"dateString"
-			],
-			[
-				"sr",
-				"start_timestamp"
-			],
-			[
-				"da",
-				"start_date_time"
-			],
-			[
-				"stri",
-				"stringToDate"
-			],
-			[
-				"strin",
-				"stringDate"
-			],
-			[
-				"start",
-				"start_time"
-			],
-			[
-				"ma",
-				"maxlength\tAttr"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "src/App.js",
-			"settings":
-			{
-				"buffer_size": 558,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": ".eslintrc",
-			"settings":
-			{
-				"buffer_size": 277,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "{"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -550,6 +531,30 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"syntaxbab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"selections",
+				"Permute Selections: Reverse"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax babl",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"disablep",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
 			[
 				"instal",
 				"Package Control: Install Package"
@@ -757,10 +762,6 @@
 			[
 				"sor",
 				"Permute Selections: Sort"
-			],
-			[
-				"selections",
-				"Permute Selections: Reverse"
 			],
 			[
 				"prety",
@@ -1041,26 +1042,6 @@
 			[
 				"xdeb",
 				"Xdebug: Restore Layout"
-			],
-			[
-				"star",
-				"Xdebug: Start Debugging"
-			],
-			[
-				"lower",
-				"Convert Case: Lower Case"
-			],
-			[
-				"permu",
-				"Permute Selections: Reverse"
-			],
-			[
-				"xde",
-				"Xdebug: Stop Debugging"
-			],
-			[
-				"edit ",
-				"Project: Edit Project"
 			]
 		],
 		"width": 524.0
@@ -1089,6 +1070,15 @@
 	],
 	"file_history":
 	[
+		"/Users/miguelhughes/Sources/Own/React learning/tic-tac-toe/src/index.js",
+		"/Users/miguelhughes/Sources/Own/React learning/tic-tac-toe/src/App.js",
+		"/Users/miguelhughes/Sources/Own/React learning/tic-tac-toe/package.json",
+		"/Users/miguelhughes/Sources/Own/React learning/tic-tac-toe/src/index.css",
+		"/Users/miguelhughes/Sources/Own/React learning/tic-tac-toe/.eslintrc",
+		"/Users/miguelhughes/Sources/Own/React learning/tic-tac-toe/tic-tac-toe.sublime-project",
+		"/Users/miguelhughes/Sources/Own/React learning/tic-tac-toe/README.md",
+		"/Users/miguelhughes/Sources/Own/React learning/tic-tac-toe/src/index.bak.js",
+		"/Users/miguelhughes/Sources/Own/React learning/tic-tac-toe/node_modules/react-scripts/config/webpack.config.js",
 		"/Users/miguelhughes/Desktop/Wunderlist-20200512-flor/Index.html",
 		"/Users/miguelhughes/Desktop/Wunderlist-20200512-flor/Bs As o España Compras/Bs As o España Compras.txt",
 		"/Users/miguelhughes/Desktop/Wunderlist-20200512-flor/Alquiler Estudio/Alquiler Estudio.txt",
@@ -1207,20 +1197,11 @@
 		"/Volumes/C/users/miguelhughes/Sources/Workspaces/OTIS/Dev/app/OTIS.Web/Areas/InventoryMgmt/Views/_Base/ManageInventoryContainers/Edit.cshtml",
 		"/Volumes/C/users/miguelhughes/Sources/Workspaces/OTIS/Dev/app/OTIS.Web/Views/_Base/Shared/EditorTemplates/BillOfMaterialTypes.cshtml",
 		"/Volumes/C/users/miguelhughes/Sources/Workspaces/OTIS/Dev/app/OTIS.Web/Views/_Base/Shared/EditorTemplates/DatePeriodsEnumDDLEditor.cshtml",
-		"/Volumes/C/users/miguelhughes/Sources/Workspaces/OTIS/Dev/app/OTIS.Web/Views/_Base/Shared/EditorTemplates/EnumExternalFinancialsInvoiceAggregationLevelEditor.cshtml",
-		"/Volumes/C/users/miguelhughes/Sources/Workspaces/OTIS/Dev/app/OTIS.Web/Views/_Base/Shared/EditorTemplates/ParcelShippingLabelTypesEditor.cshtml",
-		"/Volumes/C/users/miguelhughes/Sources/Workspaces/OTIS/Dev/app/OTIS.Web/Areas/Admin/AdminAreaRegistration.cs",
-		"/Volumes/C/Users/miguelhughes/Sources/Workspaces/OTIS/Dev/app/OTIS.Web/Areas/Admin/Views/_Base/ManageEmailTemplates/Edit.cshtml",
-		"/Volumes/C/Users/miguelhughes/Sources/Workspaces/OTIS/Dev/app/OTIS.Web/Areas/OrderMgmt/Views/_Base/ManageReturnHeaders/Index.cshtml",
-		"/Volumes/C/users/miguelhughes/Sources/Workspaces/OTIS/Dev/app/OTIS.Domain/InventoryMgmt/InvoiceMetaData.cs",
-		"/Volumes/C/users/miguelhughes/Sources/Workspaces/OTIS/Dev/app/OTIS.Web/Views/HH/Shared/_Menu.cshtml",
-		"/Volumes/C/users/miguelhughes/Sources/Workspaces/OTIS/Dev/app/OTIS.AppServ/OrderMgmt/ViewModels/ShipOrderViewModels.cs",
-		"/Volumes/C/users/miguelhughes/Sources/Workspaces/OTIS/Dev/app/OTIS.Web/OTIS.Web.csproj",
-		"/Volumes/C/users/miguelhughes/Sources/Workspaces/OTIS/Dev/app/OTIS.Web/Views/_Base/Shared/EditorTemplates/ReturnActionDDLEditor.cshtml"
+		"/Volumes/C/users/miguelhughes/Sources/Workspaces/OTIS/Dev/app/OTIS.Web/Views/_Base/Shared/EditorTemplates/EnumExternalFinancialsInvoiceAggregationLevelEditor.cshtml"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 46.0
 	},
 	"find_in_files":
 	{
@@ -1234,6 +1215,78 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"##",
+			"isBoardFull",
+			"checkIfDraw",
+			"calculateWinner",
+			"value",
+			"PropTypes.",
+			"1s",
+			"timetravel",
+			"board",
+			"history",
+			"isCurrent",
+			"error  eslint:react",
+			"props.move",
+			"move",
+			"Square.propTypes",
+			"React.Component",
+			"squares",
+			"highLight",
+			"calculateWinner",
+			"Winner",
+			"winner",
+			"Winner",
+			"winner",
+			"calculateWinner",
+			"lines",
+			"calculateWinner",
+			"test",
+			"isXNext",
+			"filledSquare",
+			"isXNext",
+			"toggleSort",
+			"test",
+			"onclick",
+			"click",
+			"test",
+			"click",
+			"(onclick=\\{).+?\\}",
+			"click",
+			"step",
+			"click",
+			"(onclick=\\{).+?\\}",
+			"onclick=\\{.+?\\}",
+			"onclick=\\{.?\\}",
+			"onclick=\\{.*\\}",
+			"click",
+			"slice",
+			"onclick",
+			"\"",
+			"jumpTo",
+			"isXNext",
+			" ",
+			"isXNext",
+			"History",
+			"key",
+			"push",
+			"devtool",
+			"export",
+			"exportts",
+			"row",
+			"xMoved",
+			" ",
+			"description",
+			"isXNext",
+			"nextPlayer",
+			"%",
+			"move",
+			"square",
+			"move",
+			"function square",
+			"square",
+			"step",
+			"status",
 			"”",
 			"“"
 		],
@@ -1243,6 +1296,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"\\1}"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -1253,85 +1307,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "src/App.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 558,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								537,
-								537
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"typescript_plugin_format_options":
-							{
-								"convertTabsToSpaces": true,
-								"indentSize": 2,
-								"tabSize": 2
-							},
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": ".eslintrc",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 277,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								90,
-								90
-							],
-							[
-								111,
-								111
-							]
-						],
-						"settings":
-						{
-							"auto_name": "{",
-							"incomplete_sync": null,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1368,7 +1345,7 @@
 	"menu_visible": true,
 	"output.SublimeLinter":
 	{
-		"height": 0.0
+		"height": 168.0
 	},
 	"output.SublimeLinter Messages":
 	{
@@ -1402,7 +1379,7 @@
 	"project": "tic-tac-toe.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 84.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1411,6 +1388,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"webpack",
+				"node_modules/react-scripts/config/webpack.config.js"
+			],
 			[
 				"viewmodel",
 				"Dev/app/OTIS.AppServ/InventoryMgmt/ViewModelMaps/ViewModelMaps.cs"
@@ -1918,10 +1899,6 @@
 			[
 				"launchsett",
 				"TracDispatchApi-NETCore/TracDispatch/Properties/launchSettings.json"
-			],
-			[
-				"CompletedPaymentsSync",
-				"TracDispatchApi-NETCore/TracDispatch/TracDispatch.BillingWebJobs/CompletedPaymentsSync.cs"
 			]
 		],
 		"width": 0.0
