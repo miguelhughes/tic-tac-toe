@@ -9,9 +9,16 @@
 ------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-In the project directory, you can run:
+To see it running, you can navigate to navigate to [http://miguelhughes.github.io/tic-tac-toe](http://miguelhughes.github.io/tic-tac-toe). 
+
+Alternatively You can clone this repo, and in the project directory, you can run:
+
+### `npm install`
+
+That will download all the dependencies. afterwards, you can run: 
 
 ### `npm start`
 
-Runs the app in the development mode.<br />
+To run the app in the development mode.<br />
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
