@@ -9,7 +9,7 @@ features:
 
 ------------
 
-This project was built as part of the ["Intro to React" tutorial](https://reactjs.org/tutorial/tutorial.html).
+This project was built as part of the ["Intro to React" tutorial](https://reactjs.org/tutorial/tutorial.html). Most of the focus was on the js code, with minimal attention to CSS, UI or general appeal. This should be improved in the following versions (centered in the ui, proper spacing/padding to the history on the right, bigger buttons)
 
 ------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
