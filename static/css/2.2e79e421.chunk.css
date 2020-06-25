@@ -1,0 +1,2 @@
+.readme-viewer{position:absolute;top:5px;left:5px;width:6.6em;height:1.4em;transition:width .5s,height .5s,background-color .5s;overflow:hidden;background-color:transparent;border:1px solid transparent}.readme-viewer.expanded{border-color:#ccc;background-color:#fff;border-radius:5px;width:1000px;height:300px}.readme-viewer .wrapper{width:1000px;height:300px;overflow:hidden}.linkButton{background-color:transparent;cursor:pointer;outline:none;border:none}.linkButton:hover{text-decoration:underline}
+/*# sourceMappingURL=2.2e79e421.chunk.css.map */
