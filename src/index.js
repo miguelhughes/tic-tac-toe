@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import ReadmeViewer from "@bit/miguelhughes.showcase.readme-viewer";
 import "./index.css";
 import PropTypes from "prop-types";
 
@@ -135,6 +136,7 @@ class Game extends React.Component {
 
     return (
       <div className="game">
+        <ReadmeViewer repoName="tic-tac-toe" />
         <div className="game-board">
           <Board
             squares={current.squares}
